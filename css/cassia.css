@@ -1,0 +1,45 @@
+#sep-top-7 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-top-7 .bg {
+    background-image: url('../images/bg-fog-top.png');
+    background-repeat: repeat-x;
+    background-position: center top;
+    background-size: auto 100px;
+}
+#sep-bottom-7 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-bottom-7 .bg {
+    background-image: url('../images/bg-fog-bottom.png');
+    background-repeat: repeat-x;
+    background-position: center bottom;
+    background-size: auto 100px;
+}
+#testimonial-3col .bg-wrap {
+    background-color: #F2F0ED;
+}
+#testimonial-3col .bg {
+	opacity: 0.55;
+	background-position: center center;
+	background-size: cover;
+	background-image: url('../images/WhatsApp_Image_2025-01-31_at_16.59.54.jpeg');
+}#benefits-2col-5 .bg-wrap{
+    background: #f4f5f6;
+}#benefits-3col-3 .bg-wrap {
+    background-color: #f4f5f6;
+}
+
+#benefits-3col-3 .bg {
+	background-size: cover;
+	opacity: 0.69;
+	background-image: url('../images/back_interestelar.jpg');
+}#action-text-btn .bg {
+    background-image: url('../images/back_interestelar.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.1;
+}
